@@ -17,8 +17,6 @@ Clone the project
 
 ```sh
 $ git clone https://github.com/jonpecson/telnet-chat-server
-$ npm install -d
-$ node app
 ```
 
 Running the Server:
